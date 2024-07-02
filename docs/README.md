@@ -2,6 +2,8 @@
 
 Welcome to the Block Editor Handbook.
 
+<!-- wp:wordpress-playground/playground {"codeEditor":true,"blueprint-url":"https://raw.githubusercontent.com/WordPress/block-development-examples/trunk/plugins/data-basics-59c8f8/_playground/blueprint.json"} /-->
+
 The [**Block Editor**](https://wordpress.org/gutenberg/) is a modern paradigm for WordPress site building and publishing. It uses a modular system of **blocks** to compose and format content and is designed to create rich and flexible layouts for websites and digital products.
 
 The Block Editor consists of several primary elements, as shown in the following figure:
